@@ -1,3 +1,4 @@
+
 # Python-DeepLearning_DNN_Stduy
 
 ## 딥러닝을 이용한 영상 분류 
@@ -24,4 +25,4 @@
 
 * 학습 그래프
 
-<img>
+![캡처](https://user-images.githubusercontent.com/51026066/132628602-3ff11d26-d59a-4756-b0bb-98d1cab563f5.PNG)
